@@ -4,7 +4,7 @@ Tenho 20 anos, tecnico de Informatica, cursando superior em tecnologia da inform
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:antonio.ancdojn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/antonio-junior-007ab2b7/)
-[![Instagram](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Instagram&logoColor=30A3DC)](https://www.instagram.com/antoniooojunio/?hl=pt-br)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram&logoColor=30A3DC)](https://www.instagram.com/antoniooojunio/?hl=pt-br)
 
 
 ### Habilidades (em evolução)
